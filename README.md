@@ -1,17 +1,23 @@
-# Student Management System using C++
+# Dreamlearn Education – Product Planning Repository
 
-This project is a simple Student Management System developed using C++.
+This repository now contains the implementation-ready planning document for building the **Dreamlearn Education Pvt Ltd** professional AI-powered learning platform.
 
-## Features
-- Add student record
-- Display student details
-- Search student by roll number
-- Delete student record
+## Main Document
+- `docs/DREAMLEARN_PLATFORM_PLAN.md`
 
-## Technologies Used
-- C++ Programming
+## What the plan covers
+- Website and dashboard page architecture
+- AI features (chatbot, story generator, quiz generator)
+- Admin panel requirements
+- Payment and subscription lifecycle
+- Tech stack recommendation
+- API and data model blueprint
+- Security checklist
+- 8-week launch roadmap
 
-## Author
-A.K. Mathavan
-B.Tech – Artificial Intelligence and Data Science
-PSN College of Engineering and Technology
+## Suggested domain names
+- `dreamlearneducation.com`
+- `dreamlearnedu.in`
+
+## Founder
+Mathavan
